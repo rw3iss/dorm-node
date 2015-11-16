@@ -1,0 +1,35 @@
+{
+  "name": "dorm",
+  "version": "0.1.0",
+  "description": "Library for creating and managing arbitrary object models and their relationships, and the data used by those models.",
+  "main": "dorm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rw3iss/dorm.git"
+  },
+  "keywords": [
+    "dorm",
+    "rest",
+    "api",
+    "orm",
+    "cms"
+  ],
+  "author": "Ryan Weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rw3iss/dorm/issues"
+  },
+  "homepage": "https://github.com/rw3iss/dorm#readme",
+  "dependencies": {
+    "underscore": "latest",
+    "bluebird": "latest",
+    "Accessor": "latest",
+    "Accessor_MongoDB": "latest",
+    "Accessor_MySQL": "latest"
+  },
+  "devDependencies": {
+  }
+}
