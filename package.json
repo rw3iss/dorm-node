@@ -1,5 +1,5 @@
 {
-  "name": "dorm",
+  "name": "dorm-node",
   "version": "0.1.0",
   "description": "Library for creating and managing arbitrary object models and their relationships, and the data used by those models.",
   "main": "dorm.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rw3iss/dorm.git"
+    "url": "git+https://github.com/rw3iss/dorm-node.git"
   },
   "keywords": [
     "dorm",
@@ -20,9 +20,9 @@
   "author": "Ryan Weiss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rw3iss/dorm/issues"
+    "url": "https://github.com/rw3iss/dorm-node/issues"
   },
-  "homepage": "https://github.com/rw3iss/dorm#readme",
+  "homepage": "https://github.com/rw3iss/dorm-node#readme",
   "dependencies": {
     "underscore": "latest",
     "bluebird": "latest",
